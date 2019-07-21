@@ -13,7 +13,7 @@ https://github.com/nrsyed/computer-vision/blob/master/real_time_histogram/real_t
 
 実行の一例を以下のgifに掲載する
 
-![result](playingmiss/camera-cv/blob/master/sample.gif)
+![result](https://github.com/playingmiss/camera-cv/blob/master/sample.gif)
 
 Name: matplotlib
 
