@@ -12,7 +12,7 @@ https://github.com/nrsyed/computer-vision/blob/master/real_time_histogram/real_t
 使用するライブラリが何のライブラリに依存しているかをpip showコマンドで表したものを以下に示す
 
 実行の一例を以下のgifに掲載する
-！[]（sample）
+！[]（sample.gif）
 
 Name: matplotlib
 
